@@ -1,16 +1,31 @@
-# myapp
+# Tic Tac Toe Game in Flutter
 
-A new Flutter project.
+This is a simple **Tic Tac Toe** game built using **Flutter SDK 3.27.1**. It supports a two-player mode where players take turns marking cells as 'X' or 'O'. The game detects wins, draws, and allows players to restart the match.
+
+## Features
+- **Two-Player Mode:** Players alternate turns on the same device.
+- **Winner Detection:** Automatically checks for a winner after every move.
+- **Draw Handling:** Declares a draw when no valid moves are left.
+- **Restart Option:** Allows players to restart the game anytime.
+- **Modern UI:** Clean and responsive design with Material 3 components.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK version: `3.27.1` [Flutter Sdk](https://docs.flutter.dev/release/archive).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/IamSmitChitroda/tictactoe.git
+
+2. Get dependences:
+   ```bash
+   flutter pub get
+
+2. Run the app:
+   ```bash
+   flutter run
