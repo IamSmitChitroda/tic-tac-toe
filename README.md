@@ -20,7 +20,7 @@ This is a simple **Tic Tac Toe** game built using **Flutter SDK 3.27.1**. It sup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/IamSmitChitroda/tictactoe.git
+   git clone [https://github.com/IamSmitChitroda/tictactoe.git](https://github.com/IamSmitChitroda/tic-tac-toe.git)
 
 2. Get dependences:
    ```bash
